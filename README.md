@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and design. Some of my other hobbies include surfing and playing guitar.
 - 🌱 I’m currently a junior at the University of California, San Diego studying design and computer science.
 - 💞️ I’m looking to collaborate on any design and code projects.
-- 📫 You can reach me at joshuawyang1@gmail.com
+- 📫 
 
 <!---
 jahyng/jahyng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
